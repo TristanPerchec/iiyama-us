@@ -1,6 +1,6 @@
 <?php
 
-namespace IiyamaUs\Setup;
+namespace Tristanperchec\IiyamaUs\Setup;
 
 use \Magento\Framework\Setup\SchemaSetupInterface;
 use \Magento\Framework\Setup\ModuleContextInterface;
