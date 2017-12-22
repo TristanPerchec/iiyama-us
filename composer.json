@@ -1,5 +1,5 @@
 {
-  "name": "tristanperchec/iiyama-us",
+  "name": "tristanperchec/us",
   "description": "N/A",
   "require": {
     "php": "~7.0.0"
@@ -23,7 +23,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Tristanperchec\\IiyamaUs\\": ""
+      "Tristanperchec\\Us\\": ""
     }
   }
 }
