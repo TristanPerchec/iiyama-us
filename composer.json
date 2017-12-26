@@ -3,6 +3,7 @@
   "description": "N/A",
   "require": {
     "php": "~7.0.0"
+    "tristanperchec/usmodule": "1.*"
   },
   "type": "magento2-module",
   "version": "1.0.0",
@@ -16,6 +17,12 @@
       "email": "tpc@synolia.com",
       "homepage": "https://www.synolia.com/",
       "role": "Developer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/TristanPerchec/usmodule.git"
     }
   ],
   "autoload": {
