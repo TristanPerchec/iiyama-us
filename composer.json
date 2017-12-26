@@ -2,7 +2,7 @@
   "name": "tristanperchec/us",
   "description": "N/A",
   "require": {
-    "php": "~7.0.0"
+    "php": "~7.0.0",
     "tristanperchec/usmodule": "1.*"
   },
   "type": "magento2-module",
