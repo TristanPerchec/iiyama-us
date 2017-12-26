@@ -2,11 +2,10 @@
   "name": "tristanperchec/us",
   "description": "N/A",
   "require": {
-    "php": "~7.0.0",
-    "tristanperchec/usmodule": "1.*"
+    "php": "~7.0.0"
   },
   "type": "magento2-module",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -17,12 +16,6 @@
       "email": "tpc@synolia.com",
       "homepage": "https://www.synolia.com/",
       "role": "Developer"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/TristanPerchec/usmodule.git"
     }
   ],
   "autoload": {
